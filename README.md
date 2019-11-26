@@ -23,11 +23,11 @@ Conecte-se a pessoas que também querem transformar o mundo em um lugar melhor.
 
 Você pode incentivar seu bairro, condomínio ou comunidade a utilizar o aplicativo. Quanto mais coletas estiverem disponíveis, mais prẽmios sua comunidade ganha. Veja alguns deles:
 
-<b> Caçamba customizada - a partir de 5 coletas diárias na unidade (1 por unidade predial ou quarteirão)</b>
+<b> Caçamba customizada </b> a partir de 5 coletas diárias na unidade (1 por unidade predial ou quarteirão)
 
-<b> Reflorestamento de área - a partir de 30 coletas diárias no raio de 5km</b>
+<b> Reflorestamento de área </b> a partir de 30 coletas diárias no raio de 5km
 
-<b> Parque Reciclo - a partir de 80 coletas diárias 10km </b>
+<b> Parque Reciclo </b> a partir de 80 coletas diárias 10km
 
 ## Ajude coletores a encontrar e destinar o lixo
 
